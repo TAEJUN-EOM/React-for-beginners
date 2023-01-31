@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/React-for-beinners/static/js/main.4f6135c3.js",
+    "main.css": "/React-for-beinners/static/css/main.c493851f.css",
+    "main.js": "/React-for-beinners/static/js/main.78fdd36e.js",
     "index.html": "/React-for-beinners/index.html",
-    "main.4f6135c3.js.map": "/React-for-beinners/static/js/main.4f6135c3.js.map"
+    "main.c493851f.css.map": "/React-for-beinners/static/css/main.c493851f.css.map",
+    "main.78fdd36e.js.map": "/React-for-beinners/static/js/main.78fdd36e.js.map"
   },
   "entrypoints": [
-    "static/js/main.4f6135c3.js"
+    "static/css/main.c493851f.css",
+    "static/js/main.78fdd36e.js"
   ]
 }
